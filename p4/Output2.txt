@@ -1,0 +1,24 @@
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+Initializing Thread Scheduler...
+Initializing Thread Manager...
+Initializing Frame Manager...
+
+
+*****  THREAD-MANAGER TEST  *****
+
+1
+Kernel Error: Attempt to use a null pointer!  Type 'st' to see stack.
+Done!  The next instruction to execute will be:
+001078: C0100000       sethi   0x0000,r1	! 0x00001088 = 4232 (noGoMessage)
+======================================================
+=====                                            =====
+=====         The BLITZ Machine Emulator         =====
+=====                                            =====
+=====  Copyright 2001-2007, Harry H. Porter III  =====
+=====                                            =====
+======================================================
+
+Enter a command at the prompt.  Type 'quit' to exit or 'help' for
+info about commands.
+> 

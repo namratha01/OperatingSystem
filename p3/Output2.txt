@@ -1,0 +1,250 @@
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+Initializing Thread Scheduler...
+B-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 8
+B-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 4
+C-RISK requests 5
+------------------------------Number of dice now avail = 4
+E-MONOPOLY requests 2
+------------------------------Number of dice now avail = 4
+F-MONOPOLY requests 2
+------------------------------Number of dice now avail = 4
+G-PICTIONARY requests 1
+------------------------------Number of dice now avail = 4
+H-PICTIONARY requests 1
+------------------------------Number of dice now avail = 4
+A-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 4
+B-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 8
+D-RISK requests 5
+------------------------------Number of dice now avail = 8
+C-RISK proceeds with 5
+------------------------------Number of dice now avail = 3
+B-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 3
+E-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 1
+C-RISK releases and adds back 5
+------------------------------Number of dice now avail = 6
+F-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 4
+E-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 6
+C-RISK requests 5
+------------------------------Number of dice now avail = 6
+G-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 5
+F-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 7
+E-MONOPOLY requests 2
+------------------------------Number of dice now avail = 7
+H-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 6
+G-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 7
+F-MONOPOLY requests 2
+------------------------------Number of dice now avail = 7
+A-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 3
+H-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 4
+G-PICTIONARY requests 1
+------------------------------Number of dice now avail = 4
+A-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 8
+H-PICTIONARY requests 1
+------------------------------Number of dice now avail = 8
+D-RISK proceeds with 5
+------------------------------Number of dice now avail = 3
+A-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 3
+D-RISK releases and adds back 5
+------------------------------Number of dice now avail = 8
+B-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 4
+D-RISK requests 5
+------------------------------Number of dice now avail = 4
+B-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 8
+C-RISK proceeds with 5
+------------------------------Number of dice now avail = 3
+E-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 1
+C-RISK releases and adds back 5
+------------------------------Number of dice now avail = 6
+F-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 4
+E-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 6
+B-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 6
+G-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 5
+E-MONOPOLY requests 2
+------------------------------Number of dice now avail = 5
+C-RISK requests 5
+------------------------------Number of dice now avail = 5
+H-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 4
+G-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 5
+F-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 7
+A-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 3
+H-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 4
+G-PICTIONARY requests 1
+------------------------------Number of dice now avail = 4
+F-MONOPOLY requests 2
+------------------------------Number of dice now avail = 4
+A-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 8
+H-PICTIONARY requests 1
+------------------------------Number of dice now avail = 8
+D-RISK proceeds with 5
+------------------------------Number of dice now avail = 3
+A-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 3
+D-RISK releases and adds back 5
+------------------------------Number of dice now avail = 8
+B-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 4
+D-RISK requests 5
+------------------------------Number of dice now avail = 4
+E-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 2
+B-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 6
+C-RISK proceeds with 5
+------------------------------Number of dice now avail = 1
+E-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 3
+B-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 3
+G-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 2
+C-RISK releases and adds back 5
+------------------------------Number of dice now avail = 7
+E-MONOPOLY requests 2
+------------------------------Number of dice now avail = 7
+F-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 5
+G-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 6
+C-RISK requests 5
+------------------------------Number of dice now avail = 6
+H-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 5
+F-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 7
+G-PICTIONARY requests 1
+------------------------------Number of dice now avail = 7
+A-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 3
+H-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 4
+F-MONOPOLY requests 2
+------------------------------Number of dice now avail = 4
+A-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 8
+H-PICTIONARY requests 1
+------------------------------Number of dice now avail = 8
+D-RISK proceeds with 5
+------------------------------Number of dice now avail = 3
+A-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 3
+D-RISK releases and adds back 5
+------------------------------Number of dice now avail = 8
+B-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 4
+D-RISK requests 5
+------------------------------Number of dice now avail = 4
+E-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 2
+B-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 6
+C-RISK proceeds with 5
+------------------------------Number of dice now avail = 1
+E-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 3
+G-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 2
+C-RISK releases and adds back 5
+------------------------------Number of dice now avail = 7
+B-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 7
+F-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 5
+G-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 6
+C-RISK requests 5
+------------------------------Number of dice now avail = 6
+E-MONOPOLY requests 2
+------------------------------Number of dice now avail = 6
+H-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 5
+F-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 7
+G-PICTIONARY requests 1
+------------------------------Number of dice now avail = 7
+A-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 3
+H-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 4
+F-MONOPOLY requests 2
+------------------------------Number of dice now avail = 4
+A-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 8
+H-PICTIONARY requests 1
+------------------------------Number of dice now avail = 8
+D-RISK proceeds with 5
+------------------------------Number of dice now avail = 3
+A-BACKGAMMON requests 4
+------------------------------Number of dice now avail = 3
+D-RISK releases and adds back 5
+------------------------------Number of dice now avail = 8
+B-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 4
+D-RISK requests 5
+------------------------------Number of dice now avail = 4
+B-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 8
+C-RISK proceeds with 5
+------------------------------Number of dice now avail = 3
+E-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 1
+G-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 0
+E-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 2
+C-RISK releases and adds back 5
+------------------------------Number of dice now avail = 7
+F-MONOPOLY proceeds with 2
+------------------------------Number of dice now avail = 5
+G-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 6
+H-PICTIONARY proceeds with 1
+------------------------------Number of dice now avail = 5
+F-MONOPOLY releases and adds back 2
+------------------------------Number of dice now avail = 7
+A-BACKGAMMON proceeds with 4
+------------------------------Number of dice now avail = 3
+H-PICTIONARY releases and adds back 1
+------------------------------Number of dice now avail = 4
+A-BACKGAMMON releases and adds back 4
+------------------------------Number of dice now avail = 8
+D-RISK proceeds with 5
+------------------------------Number of dice now avail = 3
+D-RISK releases and adds back 5
+------------------------------Number of dice now avail = 8
+Done!  The next instruction to execute will be:
+000EC8: 09000000       ret     
+Number of Disk Reads    = 0
+Number of Disk Writes   = 0
+Instructions Executed   = 746649
+Time Spent Sleeping     = 0
+    Total Elapsed Time  = 746649

@@ -1,0 +1,68 @@
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+Example Thread-based Programs...
+Initializing Thread Scheduler...
+__Thread Example...
+________123
+The currently running thread is main-thread
+Here is the ready list:
+  Thread "idle-thread"    status=READY    (addr of Thread object: 0x000140A8)
+  Thread "thread-a"    status=READY    (addr of Thread object: 0x00016624)
+  Thread "thread-b"    status=READY    (addr of Thread object: 0x00017620)
+  Thread "thread-c"    status=READY    (addr of Thread object: 0x0001861C)
+  Thread "thread-d"    status=READY    (addr of Thread object: 0x00019618)
+  Thread "thread-e"    status=READY    (addr of Thread object: 0x0001A614)
+  Thread "thread-f"    status=READY    (addr of Thread object: 0x0001B610)
+_12_4561_23456
+..Main..
+_23456_2345_
+..Main..
+1234_6
+..Main..
+123_56
+..Main..
+12_456
+..Main..
+1_3456
+..Main..
+_23456
+..Main..
+_23456_12345_
+..Main..
+1234_6
+..Main..
+123_56
+..Main..
+Here is the ready list:
+  Thread "idle-thread"    status=READY    (addr of Thread object: 0x000140A8)
+  Thread "thread-a"    status=READY    (addr of Thread object: 0x00016624)
+  Thread "thread-b"    status=READY    (addr of Thread object: 0x00017620)
+  Thread "thread-c"    status=READY    (addr of Thread object: 0x0001861C)
+  Thread "thread-d"    status=READY    (addr of Thread object: 0x00019618)
+  Thread "thread-e"    status=READY    (addr of Thread object: 0x0001A614)
+  Thread "thread-f"    status=READY    (addr of Thread object: 0x0001B610)
+_12345_  Thread "main-thread"    (addr of Thread object: 0x000130AC)
+    machine state:
+      r2: 0x000140F4   82164
+      r3: 0x00000004   4
+      r4: 0x0001B654   112212
+      r5: 0x00FFFE10   16776720
+      r6: 0x00000000   0
+      r7: 0x00000000   0
+      r8: 0x00000000   0
+      r9: 0x00000000   0
+      r10: 0x00004345   17221
+      r11: 0x00000000   0
+      r12: 0x00000000   0
+      r13: 0x00000049   73
+      r14: 0x00FFFD58   16776536
+    stackTop = 0x00FFFD28
+    stack starting addr = 0x00013108
+    status = RUNNING
+_23456_23456_23456_23456_23456_23456_23456_23456_23456_23456_23456_23456_23456_23456_23456_23456_3456_145_61_161_11_111_11_11_111_11_1Done!  The next instruction to execute will be:
+000EC8: 09000000       ret     
+Number of Disk Reads    = 0
+Number of Disk Writes   = 0
+Instructions Executed   = 285266
+Time Spent Sleeping     = 0
+    Total Elapsed Time  = 285266
